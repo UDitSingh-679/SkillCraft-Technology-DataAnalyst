@@ -1,0 +1,17 @@
+BUSINESS INSIGHTS REPORT (EDA) - MARKETING CAMPAIGN
+
+1. DATA CLEANING PERFORMED
+- Identified missing and null values within the 'Income' column.
+- Cleared rows with null values to maintain the statistical accuracy of the customer profile analysis.
+- Verified and corrected data types for all numeric purchase counts and campaign response flags.
+
+2. FUNNEL & CHANNEL ANALYSIS
+- Analyzed customer engagement across Web, Catalog, and Store purchase channels.
+- Evaluated the conversion and acceptance rates across five consecutive marketing campaigns (Campaign 1 to 5) 
+  and the final response stage.
+
+3. BUDGET RECOMMENDATION BASED ON ROI
+- Insights: The Exploratory Data Analysis (EDA) clearly reveals that the 'Final Campaign (Response)' and 'Campaign 4' generated the highest volume of customer conversions.
+- Recommendation: To maximize Return on Investment (ROI), it is highly recommended to allocate 20% more budget to the marketing channels and 
+  strategies that match the Final Campaign and Campaign 4 criteria. Conversely, budget should be scaled back from underperforming segments
+  (such as Campaign 2) to prevent waste and optimize overall company profit.
